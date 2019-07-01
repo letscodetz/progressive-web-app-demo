@@ -15,14 +15,14 @@ class App extends Component {
             <header className="container">
               <nav className="navbar">
                 <div className="navbar-brand">
-                  <span className="navbar-item">PusherCoins</span>
+                  <span className="navbar-item">Digital Coins</span>
                 </div>
               </nav>
             </header>
           </div>
           <section className="results--section">
             <div className="container">
-              <h2 className="container-title">PusherCoins is a realtime price information about BTC, ETH and LTC.</h2>
+              <h2 className="container-title">Digital Coins is a realtime price information about BTC, ETH and LTC.</h2>
             </div>
             <div className="results--section__inner">
               <Today />
