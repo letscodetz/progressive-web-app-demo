@@ -1,0 +1,40 @@
+.History {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.History h2 {
+    font-size: 0.8em;
+    padding-bottom: 5px;
+}
+
+.History .previous-prices {
+    display: flex;
+    flex-direction: column;
+}
+
+.History .previous-price {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    margin-bottom: 5px;
+}
+
+.History .previous-price h4 {
+    text-align: center;
+    font-size: 0.8em;
+    padding: 10px;
+}
+
+.History .price-columns {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+
+}
+
+
+.History .price-column {
+padding: 5px;
+}
