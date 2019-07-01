@@ -1,0 +1,25 @@
+.Today {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.Today h2 {
+    font-size: 0.8em;
+}
+
+.Today .today-prices {
+    display: flex;
+    background-color: #FFFFFF;
+    justify-content: space-evenly;
+}
+
+.Today .right-line {
+    border-right: 1px solid #F4F7FA;
+}
+
+.Today .today-price {
+    padding: 5px;
+}
+
+
